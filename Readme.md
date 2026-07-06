@@ -5,8 +5,8 @@
 > Incluye 2 componentes reutilizables: **Modal** y **Toast**.
 > Cada uno se llama con una función, recibiendo parámetros distintos (título, mensaje, tipo, textos de botones, etc.), por lo que puede insertarse en cualquier página sin reescribir el componente.
 
-🔗 **Demo en vivo (GitHub Pages):** `https://22161260-source.github.io/Act3-Componente/`**
-🔗 **Repositorio:** `https://github.com/22161260-source/Act3-Componente.git`**
+**Demo en vivo (GitHub Pages): `https://22161260-source.github.io/Act3-Componente/`**
+**Repositorio: `https://github.com/22161260-source/Act3-Componente.git`**
 
 ---
 
@@ -25,7 +25,7 @@ Cuando se construye una página con HTML/CSS/JS "a mano", es común terminar cop
 1. Descarga o clona este repositorio:
 
    ```bash
-   git clone https://github.com/TU-USUARIO/faro-js.git
+   https://github.com/22161260-source/Act3-Componente.git
    ```
 
 2. Copia las carpetas `css/` y `js/` a tu proyecto (o solo los archivos `componente.css` y `componente.js`).
@@ -124,14 +124,12 @@ Se pueden mostrar varios toasts al mismo tiempo; se apilan automáticamente en l
 ## Estructura del repositorio
 
 ```
-faro-js/
+
 ├── index.html            # Página de demostración con los 2 componentes
 ├── css/
 │   └── componente.css    # Estilos del modal y el toast
 ├── js/
 │   └── componente.js     # Lógica y API pública (window.Faro)
-├── img/
-│   └── icono-faro.svg    # Ícono/favicon usado en la demo
 └── README.md
 ```
 
@@ -143,14 +141,6 @@ faro-js/
 
 ---
 
-## Cómo activar GitHub Pages
-
-1. Entra a tu repositorio en GitHub → **Settings → Pages**.
-2. En **Source**, selecciona la rama `main` y la carpeta `/root`.
-3. Guarda. GitHub te dará una URL como `https://tu-usuario.github.io/faro-js/`.
-4. Esa es la URL que debes entregar junto con el link del repositorio.
-
----
 
 ## Tecnologías
 
