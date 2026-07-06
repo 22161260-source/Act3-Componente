@@ -151,8 +151,6 @@ faro-js/
 
 [Ver video demo](https://drive.google.com/file/d/1ft5Gg8MlP-0VFjJ1wWOJHGKra1FWI29U/view?usp=sharing)
 
-
-
 ---
 
 ## Cómo activar GitHub Pages
