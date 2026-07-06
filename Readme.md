@@ -151,7 +151,7 @@ faro-js/
 
 [Ver video demo](https://drive.google.com/file/d/1ft5Gg8MlP-0VFjJ1wWOJHGKra1FWI29U/view?usp=sharing)
 
-*(Sube el video a YouTube/Drive/Loom como "no listado" y pega aquí el enlace.)*
+
 
 ---
 
