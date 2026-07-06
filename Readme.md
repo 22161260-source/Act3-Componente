@@ -147,9 +147,9 @@ faro-js/
 
 ---
 
-## Video demo (máx. 1 minuto)
+## Video demo 
 
-[Ver video demo](https://link-a-tu-video.com)
+[Ver video demo](https://drive.google.com/file/d/1ft5Gg8MlP-0VFjJ1wWOJHGKra1FWI29U/view?usp=sharing)
 
 *(Sube el video a YouTube/Drive/Loom como "no listado" y pega aquí el enlace.)*
 
