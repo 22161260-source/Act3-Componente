@@ -120,19 +120,47 @@ Parámetros disponibles:
 Se pueden mostrar varios toasts al mismo tiempo; se apilan automáticamente en la esquina inferior derecha.
 
 ---
-## Captura de pantalla
-- Modal
-<img width="617" height="221" alt="modal" src="https://github.com/user-attachments/assets/5a0ae9a6-3cad-486b-ab0e-e27e0edb173a" />
--- Toast
-<img width="624" height="171" alt="toast" src="https://github.com/user-attachments/assets/ede97bc5-650f-47da-a61e-750c38e09811" />
-- Componente modal Eliminar cuenta :
-<img width="248" height="123" alt="Captura de pantalla 2026-07-05 233727" src="https://github.com/user-attachments/assets/5c0b1f39-c7cf-45aa-9081-df92bbfd7f7e" />
-- Toast Notificacion Info:
-<img width="236" height="94" alt="Captura de pantalla 2026-07-05 233956" src="https://github.com/user-attachments/assets/a78c74c7-af9c-4b3e-94cb-d226121e37f0" />
-- Toast Notificacion Exito :
-<img width="243" height="104" alt="image" src="https://github.com/user-attachments/assets/c7d0b3ce-7edd-4468-bb51-d036eda0a07d" />
-- Toast Notificacion Error: <img width="279" height="95" alt="Captura de pantalla 2026-07-05 234146" src="https://github.com/user-attachments/assets/b6cde54e-2007-4851-b754-57badb6c7c66" />
-- Toast Notificacion Advertencia:<img width="223" height="88" alt="Captura de pantalla 2026-07-05 234315" src="https://github.com/user-attachments/assets/b80b7f90-e660-410b-b817-7c797f8babe8" />
+#  Capturas de pantalla
+
+##  Modal
+
+<img width="617" height="221" alt="Modal" src="https://github.com/user-attachments/assets/5a0ae9a6-3cad-486b-ab0e-e27e0edb173a" />
+
+---
+
+##  Toast
+
+<img width="624" height="171" alt="Toast" src="https://github.com/user-attachments/assets/ede97bc5-650f-47da-a61e-750c38e09811" />
+
+---
+
+##  Componente: Modal Eliminar Cuenta
+
+<img width="248" height="123" alt="Modal Eliminar Cuenta" src="https://github.com/user-attachments/assets/5c0b1f39-c7cf-45aa-9081-df92bbfd7f7e" />
+
+---
+
+##  Toast - Notificación de Información
+
+<img width="236" height="94" alt="Toast Información" src="https://github.com/user-attachments/assets/a78c74c7-af9c-4b3e-94cb-d226121e37f0" />
+
+---
+
+##  Toast - Notificación de Éxito
+
+<img width="243" height="104" alt="Toast Éxito" src="https://github.com/user-attachments/assets/c7d0b3ce-7edd-4468-bb51-d036eda0a07d" />
+
+---
+
+##  Toast - Notificación de Error
+
+<img width="279" height="95" alt="Toast Error" src="https://github.com/user-attachments/assets/b6cde54e-2007-4851-b754-57badb6c7c66" />
+
+---
+
+##  Toast - Notificación de Advertencia
+
+<img width="223" height="88" alt="Toast Advertencia" src="https://github.com/user-attachments/assets/b80b7f90-e660-410b-b817-7c797f8babe8" />
 
 
 
