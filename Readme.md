@@ -6,7 +6,7 @@
 > Cada uno se llama con una función, recibiendo parámetros distintos (título, mensaje, tipo, textos de botones, etc.), por lo que puede insertarse en cualquier página sin reescribir el componente.
 
 🔗 **Demo en vivo (GitHub Pages):** `https://TU-USUARIO.github.io/faro-js/`
-🔗 **Repositorio:** `https://github.com/TU-USUARIO/faro-js`
+🔗 **Repositorio:** `https://github.com/22161260-source/Act3-Componente.git`
 
 ---
 
@@ -143,7 +143,7 @@ faro-js/
 
 | Modal abierto | Toast de éxito |
 |---|---|
-| ![Modal de Faro.js](img/captura-modal.png) | ![Toast de Faro.js](img/captura-toast.png) |
+| ![Modal de Faro.js](iC:\Users\ivone\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-07-05 224842.png) | ![Toast de Faro.js](C:\Users\ivone\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-07-05 225000.png) |
 
 ---
 
