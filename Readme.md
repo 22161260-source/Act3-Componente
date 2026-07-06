@@ -137,11 +137,6 @@ faro-js/
 
 ---
 
-## Capturas de pantalla
-C:\Users\ivone\OneDrive\Imágenes\modal.png
-
----
-
 ## Video demo 
 
 [Ver video demo](https://drive.google.com/file/d/1ft5Gg8MlP-0VFjJ1wWOJHGKra1FWI29U/view?usp=sharing)
