@@ -138,8 +138,8 @@ faro-js/
 ---
 
 ## Capturas de pantalla
-[Modal de Faro.js](C:\Users\ivone\OneDrive\Imágenes\modal.png)
-[Toast de Faro.js](C:\Users\ivone\OneDrive\Imágenes\toast.png) 
+[Modal.png](C:\Users\ivone\OneDrive\Imágenes\modal.png)
+[toast.png](C:\Users\ivone\OneDrive\Imágenes\toast.png) 
 
 ---
 
