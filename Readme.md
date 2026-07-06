@@ -120,6 +120,10 @@ Parámetros disponibles:
 Se pueden mostrar varios toasts al mismo tiempo; se apilan automáticamente en la esquina inferior derecha.
 
 ---
+## Captura de pantalla
+<img width="617" height="221" alt="modal" src="https://github.com/user-attachments/assets/5a0ae9a6-3cad-486b-ab0e-e27e0edb173a" />
+
+<img width="624" height="171" alt="toast" src="https://github.com/user-attachments/assets/ede97bc5-650f-47da-a61e-750c38e09811" />
 
 ## Estructura del repositorio
 
