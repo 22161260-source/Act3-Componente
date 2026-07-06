@@ -2,11 +2,36 @@
 
 **Librería de componentes visuales interactivos en JavaScript puro** (sin frameworks).
 
-> Incluye 2 componentes reutilizables: **Modal** y **Toast**.
-> Cada uno se llama con una función, recibiendo parámetros distintos (título, mensaje, tipo, textos de botones, etc.), por lo que puede insertarse en cualquier página sin reescribir el componente.
+##  Componentes reutilizables
 
-**Demo en vivo (GitHub Pages): `https://22161260-source.github.io/Act3-Componente/`**
-**Repositorio: `https://github.com/22161260-source/Act3-Componente.git`**
+Este proyecto incluye **dos componentes reutilizables** desarrollados con **JavaScript puro**:
+
+-  **Modal**
+-  **Toast**
+
+Cada componente se invoca mediante una función y recibe parámetros personalizados como:
+
+- Título
+- Mensaje
+- Tipo de notificación
+- Texto de los botones
+- Acciones personalizadas
+
+Esto permite reutilizarlos fácilmente en cualquier página del proyecto sin necesidad de duplicar código.
+
+---
+
+##  Demo en vivo
+
+ **GitHub Pages:**  
+https://22161260-source.github.io/Act3-Componente/
+
+---
+
+##  Repositorio
+
+ **GitHub:**  
+https://github.com/22161260-source/Act3-Componente
 
 ---
 
@@ -24,9 +49,7 @@ Cuando se construye una página con HTML/CSS/JS "a mano", es común terminar cop
 
 1. Descarga o clona este repositorio:
 
-   ```bash
-   https://github.com/22161260-source/Act3-Componente.git
-   ```
+https://github.com/22161260-source/Act3-Componente
 
 2. Copia las carpetas `css/` y `js/` a tu proyecto (o solo los archivos `componente.css` y `componente.js`).
 
