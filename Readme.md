@@ -1,6 +1,8 @@
 # Vargas Vicente Ivonee Montserrat
+#Instituto Tecnologico De Oaxaca
+#PROGRAMACION WEB 
 
-**Librería de componentes visuales interactivos en JavaScript puro** (sin frameworks).
+**Librería de componentes visuales interactivos en JavaScript puro**
 
 ##  Componentes reutilizables
 
