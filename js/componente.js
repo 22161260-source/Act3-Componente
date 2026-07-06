@@ -1,9 +1,6 @@
-
-
 (function (global) {
   "use strict";
 
-  /* ---------- utilidades internas ---------- */
   function crearElemento(tag, className, html) {
     const el = document.createElement(tag);
     if (className) el.className = className;
