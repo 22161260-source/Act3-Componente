@@ -5,8 +5,8 @@
 > Incluye 2 componentes reutilizables: **Modal** y **Toast**.
 > Cada uno se llama con una función, recibiendo parámetros distintos (título, mensaje, tipo, textos de botones, etc.), por lo que puede insertarse en cualquier página sin reescribir el componente.
 
-🔗 **Demo en vivo (GitHub Pages):** `https://22161260-source.github.io/Act3-Componente/`
-🔗 **Repositorio:** `https://github.com/22161260-source/Act3-Componente.git`
+🔗 **Demo en vivo (GitHub Pages):** `https://22161260-source.github.io/Act3-Componente/`**
+🔗 **Repositorio:** `https://github.com/22161260-source/Act3-Componente.git`**
 
 ---
 
@@ -138,13 +138,8 @@ faro-js/
 ---
 
 ## Capturas de pantalla
-
-> Reemplaza estas imágenes por las tuyas propias (súbelas a `img/` y enlázalas aquí).
-
-| Modal abierto | Toast de éxito |
-|---|---|
-| ![Modal de Faro.js](C:\Users\ivone\OneDrive\Imágenes\modal.png)
-| ![Toast de Faro.js](C:\Users\ivone\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-07-05 225000.png) |
+[Modal de Faro.js](C:\Users\ivone\OneDrive\Imágenes\modal.png)
+[Toast de Faro.js](C:\Users\ivone\OneDrive\Imágenes\toast.png) 
 
 ---
 
