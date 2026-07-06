@@ -143,7 +143,7 @@ faro-js/
 
 | Modal abierto | Toast de éxito |
 |---|---|
-| ![Modal de Faro.js](modal.png) 
+| ![Modal de Faro.js](C:\Users\ivone\OneDrive\Imágenes\modal.png)
 | ![Toast de Faro.js](C:\Users\ivone\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-07-05 225000.png) |
 
 ---
