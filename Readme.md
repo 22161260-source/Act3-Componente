@@ -123,7 +123,7 @@ Se pueden mostrar varios toasts al mismo tiempo; se apilan automáticamente en l
 ## Captura de pantalla
 - Modal
 <img width="617" height="221" alt="modal" src="https://github.com/user-attachments/assets/5a0ae9a6-3cad-486b-ab0e-e27e0edb173a" />
-- Toast
+-- Toast
 <img width="624" height="171" alt="toast" src="https://github.com/user-attachments/assets/ede97bc5-650f-47da-a61e-750c38e09811" />
 - Componente modal Eliminar cuenta :
 <img width="248" height="123" alt="Captura de pantalla 2026-07-05 233727" src="https://github.com/user-attachments/assets/5c0b1f39-c7cf-45aa-9081-df92bbfd7f7e" />
