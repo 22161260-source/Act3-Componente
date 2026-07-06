@@ -145,4 +145,4 @@ Se pueden mostrar varios toasts al mismo tiempo; se apilan automáticamente en l
 ## Tecnologías
 
 - HTML5 / CSS3
-- JavaScript (Vanilla, ES6+) — sin frameworks ni dependencias externas
+- JavaScript
