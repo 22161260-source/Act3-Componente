@@ -1,4 +1,4 @@
-# Faro.js
+# Vargas Vicente Ivonee Montserrat
 
 **Librería de componentes visuales interactivos en JavaScript puro** (sin frameworks).
 
